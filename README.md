@@ -16,6 +16,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: actions/avcHub@1.0.0
+uses: actions/sync@1.0.0
 with:
   who-to-greet: 'Mona the Octocat'
